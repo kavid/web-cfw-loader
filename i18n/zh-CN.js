@@ -22,8 +22,8 @@ let zhCN = {
   "h4GetByteArray"  :"获取Payload byte array (无Sploit)",
   "goButton"        :"传递 Payload!",
   "clearlogsbutton" :"清除日志",
-  "disclaimer1" :'Source can be found on <a href="https://github.com/ElijahZAwesome/web-cfw-loader/">GitHub</a> (or by hitting view source, there is no backend!).',
-  "disclaimer2" :'Ported from <a href="https://github.com/reswitched/fusee-launcher">fusee-launcher</a>.',
-  "disclaimer3" :'Thanks to ktemkin and ReSwitched, as well as <br><a href="https://atlas44.s3-us-west-2.amazonaws.com/web-fusee-launcher/index.html">Atlas44 and his website</a> as a beginning point for this one.',
-  "disclaimer4" :'Lastly, thanks to <a href="https://github.com/falquinho">falquinho</a> for the new bootstrap layout and portuguese translation, <a href="https://github.com/Filo97">Filo97</a> for the italian translation, <a href="https://github.com/tumGER">tumGER</a> for his german translation, and <a href="https://github.com/lordfriky">Lord_Friky</a> for the spanish translation.'
+  "disclaimer1" :'远程可以在 <a href="https://github.com/ElijahZAwesome/web-cfw-loader/">GitHub</a> 上找到(或者点击查看源代码，没有后端程序!).',
+  "disclaimer2" :'移植自 <a href="https://github.com/reswitched/fusee-launcher">fusee-launcher</a>.',
+  "disclaimer3" :'感谢 ktemkin 和 ReSwitched, 同时 <br><a href="https://atlas44.s3-us-west-2.amazonaws.com/web-fusee-launcher/index.html">Atlas44 and his website</a>作为这个项目的起源.',
+  "disclaimer4" :'最后感谢 <a href="https://github.com/falquinho">falquinho</a> 用于新的引导布局葡萄牙语翻译, <a href="https://github.com/Filo97">Filo97</a> 意大利语翻译, <a href="https://github.com/tumGER">tumGER</a>德语翻译, 和 <a href="https://github.com/lordfriky">Lord_Friky</a> 西班牙语翻译.'
 }
