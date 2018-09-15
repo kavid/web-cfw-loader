@@ -15,15 +15,15 @@ let zhCN = {
   "liLaunch"       :"如果一切顺利，Payload将成功加载!",
   "h1SetupDelivery" :"部署 Payload",
   "h4SelectPayload" :"选择 Payload:",
-  "optionCTCaerHekate"  :"CTCaer's Hekate Mod v3.0 (全版本)",
+  "optionCTCaerHekate"  :"CTCaer's Hekate Mod v3.2 (全版本)",
   "optionFusee"     :"(Re)Switched test payload (fusee)",
   "optionSXOS"     :"SX OS (全版本)",
   "optionUpload"    :"上传 Payload",
   "h4GetByteArray"  :"获取Payload byte array (无Sploit)",
   "goButton"        :"传递 Payload!",
   "clearlogsbutton" :"清除日志",
-  "disclaimer1" :'Source can be found on <a href="https://github.com/ElijahZAwesome/web-cfw-loader/">GitHub</a> (or by hitting view source, there is no backend!).',
-  "disclaimer2" :'Ported from <a href="https://github.com/reswitched/fusee-launcher">fusee-launcher</a>.',
-  "disclaimer3" :'Thanks to ktemkin and ReSwitched, as well as <br><a href="https://atlas44.s3-us-west-2.amazonaws.com/web-fusee-launcher/index.html">Atlas44 and his website</a> as a beginning point for this one.',
-  "disclaimer4" :'Lastly, thanks to <a href="https://github.com/falquinho">falquinho</a> for the new bootstrap layout and portuguese translation, <a href="https://github.com/Filo97">Filo97</a> for the italian translation, <a href="https://github.com/tumGER">tumGER</a> for his german translation, and <a href="https://github.com/lordfriky">Lord_Friky</a> for the spanish translation.'
+  "disclaimer1" :'网站的源码来自 <a href="https://github.com/ElijahZAwesome/web-cfw-loader/">GitHub</a> (或者通过点击view source，没有后端!).',
+  "disclaimer2" :'代码移植自 <a href="https://github.com/reswitched/fusee-launcher">fusee-launcher</a>.',
+  "disclaimer3" :'感谢 ktemkin和  ReSwitched, 同时 <br><a href="https://atlas44.s3-us-west-2.amazonaws.com/web-fusee-launcher/index.html">Atlas44和他的网站</a> 是这个项目开端。',
+  "disclaimer4" :'最后，要感谢 <a href="https://github.com/falquinho">falquinho</a>开发了程序引导界面和葡萄牙语翻译, <a href="https://github.com/Filo97">Filo97</a> 意大利语翻译, <a href="https://github.com/tumGER">tumGER</a> 德语分宜, 和<a href="https://github.com/lordfriky">Lord_Friky</a> 西班牙语翻译'
 }
